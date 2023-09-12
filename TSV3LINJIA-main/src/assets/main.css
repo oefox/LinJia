@@ -1,0 +1,58 @@
+html,
+body,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+ol,
+dl,
+li,
+dt,
+dd,
+form,
+input {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  display: block;
+}
+
+a,
+u,
+s,
+del {
+  text-decoration: none;
+}
+
+b,
+strong,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 400;
+}
+
+input,
+textarea,
+select {
+  outline: none;
+  border: none;
+}
+
+html,
+body{
+  height: 100%;
+}
